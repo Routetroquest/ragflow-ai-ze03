@@ -1,4 +1,4 @@
-# 
+# Léger RAGFlow modèles. Avec génération de code et système de plugins — optimisé pour des performances et une efficacité maximales.
 
 
 
